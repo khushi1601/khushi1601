@@ -23,7 +23,4 @@ Here are some ideas to get you started:
 - 🕸  My website: https://khushi1601.github.io/Portfolio/
 
 
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=khushi1601&show_icons=true&theme=radical)
-]([(https://github.com/khushi1601/github-readme-stats))]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilabjasanyal&show_icons=true&theme=radical)](https://github.com/khushi1601/github-readme-stats)
